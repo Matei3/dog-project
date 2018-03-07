@@ -114,3 +114,7 @@ When you are ready to submit your project, collect the following files and compr
 - Any additional images used for the project that were not supplied to you for the project. __Please do not include the project data sets in the `dogImages/` or `lfw/` folders.  Likewise, please do not include the `bottleneck_features/` folder.__
 
 Alternatively, your submission could consist of the GitHub link to your repository.
+
+## Solution
+
+I have implemented the neural network for detecting dog breed using a VGG16 pretrained model. Also I have added extra features to the algorithm such as the capacity to detect dogmutts and also to attach dog ears to a picture of a human face. 
